@@ -27,7 +27,29 @@ tructure (AWS, Docker). Experienced in building responsive web applications, dec
 - **Databases:** MongoDB, PostgreSQL, Prisma  
 - **Blockchain:** Smart Contract Development (Solidity, Rust, Anchor), Client Integration (TypeScript)  
 - **DevOps / Cloud:** AWS (S3, ECS, ECR, Auto Scaling Groups, EC2/VMs), Docker, CI/CD, Git/GitHub
-- 
+
+## 🌍 Web2 Projects  
+
+- [**CHESS CLONE**](https://github.com/Deva-2002/CHESS-CLONE) → A fully functional online chess game built with real-time interactivity.  
+- [**Mind Vault**](https://github.com/Deva-2002/Mind-Vault) → A second-brain tool to save and organize YouTube & Twitter content for later reference.  
+- [**Vercel Clone**](https://github.com/Deva-2002/VERCEL-CLONE) → A simplified deployment platform inspired by Vercel with project hosting workflows.  
+- [**WebCraft (Bolt Clone)**](https://github.com/Deva-2002/WebCraft_Website_Builder) → An **AI-powered website builder** (Bolt clone) that generates landing pages from user prompts.  
+- [**PAY LINK**](https://github.com/Deva-2002/PAY-LINK) → Peer-to-peer wallet app with JWT authentication, MongoDB transactions, and Zod validation.  
+- [**Ecommerce Skeleton**](https://github.com/Deva-2002/Ecommerce-skeleton) → A scalable skeleton for e-commerce platforms with essential features ready to extend.  
+- [**Workout Generator**](https://github.com/Deva-2002/WORKOUT-GENERATOR-HTML-CSS-JS-REACT-VITE) → A fitness app that generates personalized workout plans using React + Vite.  
+
+
+- ## 🌐 Web3 Projects  
+
+- [**HD Wallet (Web3)**](https://github.com/Deva-2002/hd-wallet-web3) → Implementation of a Hierarchical Deterministic (HD) wallet for managing multiple blockchain accounts.  
+- [**Web3 Wallet-Based Centralized Exchange**](https://github.com/Deva-2002/Web3-wallet-based-Centralized-Exchange) → Prototype of a centralized exchange where authentication and transactions are powered by Web3 wallets.  
+- [**Ethereum Bridge Contract**](https://github.com/Deva-2002/Eth-Bridge-Contract) → Smart contract for bridging assets between Ethereum and other chains.  
+- [**Solana Vesting App**](https://github.com/Deva-2002/vesting_app_solana) → Token vesting smart contract and frontend dApp built on Solana.  
+- [**SOL Bank dApp**](https://github.com/Deva-2002/SOL_BANK-Dapp) → Solana devnet dApp for requesting airdrops, checking balances, and sending transactions.
+-  [**Decentralized Voting App**](https://github.com/Deva-2002/decentralized-voting-app) → A Solana-based voting dApp enabling secure, transparent, and decentralized elections.  
+- [**Rust Material**](https://github.com/Deva-2002/rust-material) → Personal notes and learning resources while exploring the Rust programming language.  
+
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Deva-2002&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Deva-2002&theme=dark&hide_border=false)<br/>
