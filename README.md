@@ -6,8 +6,9 @@
 
 ## 💡 About Me  
 
-I’m passionate about building **scalable, secure, and user-friendly applications** that bridge the gap between **web, blockchain, and AI**.  
-From **responsive web apps** to **decentralized applications (dApps)** and **cloud-native platforms**, I love experimenting with modern technologies and solving real-world problems.  
+Computer Science graduate skilled in full-stack development, blockchain (Solana and Ethereum), and cloud infras
+tructure (AWS, Docker). Experienced in building responsive web applications, decentralized applications (dApps),
+ AI-powered tools, and scalable cloud-native platforms
 
 - 
 ## 🌐 Socials:
