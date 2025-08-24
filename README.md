@@ -10,7 +10,7 @@ Computer Science graduate skilled in full-stack development, blockchain (Solana 
 tructure (AWS, Docker). Experienced in building responsive web applications, decentralized applications (dApps),
  AI-powered tools, and scalable cloud-native platforms
 
-- 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deva-krishna-s-j-5a2508277/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SDeva31156)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devakrishnasj@gmail.com) 
 
