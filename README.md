@@ -44,7 +44,9 @@ tructure (AWS, Docker). Experienced in building responsive web applications, dec
 - [**Solana Vesting App**](https://github.com/Deva-2002/vesting_app_solana) → Token vesting smart contract and frontend dApp built on Solana.  
 - [**SOL Bank dApp**](https://github.com/Deva-2002/SOL_BANK-Dapp) → Solana devnet dApp for requesting airdrops, checking balances, and sending transactions.
 -  [**Decentralized Voting App**](https://github.com/Deva-2002/decentralized-voting-app) → A Solana-based voting dApp enabling secure, transparent, and decentralized elections.  
-- [**Rust Material**](https://github.com/Deva-2002/rust-material) → Personal notes and learning resources while exploring the Rust programming language.  
+- [**Rust Material**](https://github.com/Deva-2002/rust-material) → Personal notes and learning resources while exploring the Rust programming language.
+- [Payroll_Contract_Etherium](https://github.com/Deva-2002/Payroll_Contact_Etherium) – Smart contract for automated employee payroll management.  
+- [Swap_Contract_Etherium](https://github.com/Deva-2002/Swap_Contract_Etherium) – ERC20 token swap contract with configurable exchange rates.  
 
   
 # 📊 GitHub Stats:
