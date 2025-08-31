@@ -46,7 +46,10 @@ tructure (AWS, Docker). Experienced in building responsive web applications, dec
 -  [**Decentralized Voting App**](https://github.com/Deva-2002/decentralized-voting-app) → A Solana-based voting dApp enabling secure, transparent, and decentralized elections.  
 - [**Rust Material**](https://github.com/Deva-2002/rust-material) → Personal notes and learning resources while exploring the Rust programming language.
 - [Payroll_Contract_Etherium](https://github.com/Deva-2002/Payroll_Contact_Etherium) – Smart contract for automated employee payroll management.  
-- [Swap_Contract_Etherium](https://github.com/Deva-2002/Swap_Contract_Etherium) – ERC20 token swap contract with configurable exchange rates.  
+- [Swap_Contract_Etherium](https://github.com/Deva-2002/Swap_Contract_Etherium) – ERC20 token swap contract with configurable exchange rates.
+- [Escrow_Contract_Etherium](https://github.com/Deva-2002/Escrow_Contract_Etherium) – Decentralized escrow contract with buyer, seller, and arbiter roles for secure fund transfers.  
+- [Time_Lock_Contract_Etherium](https://github.com/Deva-2002/Time_Lock_Contract_Etherium) – Smart contract that locks user funds for a specific period before allowing withdrawals.  
+- [Voting_Contract_Etherium](https://github.com/Deva-2002/Voting_Contract_Etherium) – Ethereum-based voting contract ensuring fairness, transparency, and one-vote-per-user enforcement.  
 
   
 # 📊 GitHub Stats:
