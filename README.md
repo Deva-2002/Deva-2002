@@ -51,6 +51,7 @@ tructure (AWS, Docker). Experienced in building responsive web applications, dec
 - [Time_Lock_Contract_Etherium](https://github.com/Deva-2002/Time_Lock_Contract_Etherium) – Smart contract that locks user funds for a specific period before allowing withdrawals.  
 - [Voting_Contract_Etherium](https://github.com/Deva-2002/Voting_Contract_Etherium) – Ethereum-based voting contract ensuring fairness, transparency, and one-vote-per-user enforcement.  
 - [Eth_Bridge_2](https://github.com/Deva-2002/Eth_Bridge_2) — A simple Ethereum ↔ Polygon token bridge with Solidity, Foundry, and a Node.js relayer.
+- [Anchor_Escrow_Contract](https://github.com/Deva-2002/Anchor_Escrow_Contract)— Solana-based NFT escrow contract using Anchor for secure, trustless peer-to-peer trades.
 
   
 # 📊 GitHub Stats:
