@@ -33,7 +33,9 @@ tructure (AWS, Docker). Experienced in building responsive web applications, dec
 - [**WebCraft (Bolt Clone)**](https://github.com/Deva-2002/WebCraft_Website_Builder) → An **AI-powered website builder** (Bolt clone) that generates landing pages from user prompts.  
 - [**PAY LINK**](https://github.com/Deva-2002/PAY-LINK) → Peer-to-peer wallet app with JWT authentication, MongoDB transactions, and Zod validation.  
 - [**Ecommerce Skeleton**](https://github.com/Deva-2002/Ecommerce-skeleton) → A scalable skeleton for e-commerce platforms with essential features ready to extend.  
-- [**Workout Generator**](https://github.com/Deva-2002/WORKOUT-GENERATOR-HTML-CSS-JS-REACT-VITE) → A fitness app that generates personalized workout plans using React + Vite.  
+- [**Workout Generator**](https://github.com/Deva-2002/WORKOUT-GENERATOR-HTML-CSS-JS-REACT-VITE) → A fitness app that generates personalized workout plans using React + Vite.
+- [**Zoom Clone**](https://github.com/Deva-2002/zoomclone) → A real-time video conferencing web app built with React, Node.js, Express, Socket.IO, and WebRTC.  
+
 
 
 ## 🌐 Web3 Projects  
